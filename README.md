@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💫 My interests </h2>  
-    <div style="font-weight: 700; font-size: 20px; text-align: left; color: #282d33;"> <li> LLM</li><li> Korean NLP</li><li> Domain-specific NLP (e.g. Legal, Medical, Political)</li><li> AI Ethics (e.g. Gender bias, Hate speech)  </div> 
+    <div style="font-weight: 700; font-size: 24px; text-align: left; color: #282d33;"> <li> LLM</li><li> Korean NLP</li><li> Domain-specific NLP (e.g. Legal, Medical, Political)</li><li> AI Ethics (e.g. Gender bias, Hate speech)  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
